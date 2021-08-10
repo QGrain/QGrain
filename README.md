@@ -5,6 +5,7 @@
 - 🔭 I’m currently a PhD student in cyber security
 - 🌱 I’m currently learning CTF skills
 - 📫 My email: zhiyuzhang1999@163.com
+- 😄 My blog: https://qgrain.github.io
 - ⚡ My site: https://zhiyu.netlify.app 
 
 [![QGrain's github stats](https://github-readme-stats.vercel.app/api?username=qgrain&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
