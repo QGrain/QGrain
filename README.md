@@ -2,11 +2,11 @@
 <h3 align="center">About me</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qgrain" alt="qgrain" /> </p>
 
-- 🔭 I’m currently a PhD student in cyber security
+- 🔭 I’m currently a PhD student in cyber security, focusing on software and system security
 - 🌱 I’m currently learning CTF skills
 - 📫 My email: zhiyuzhang1999@163.com
-- 😄 My blog: https://qgrain.github.io
-- ⚡ My site: https://zhiyu.netlify.app 
+- 😄 My blog: https://qgrain.github.io (resume updating)
+- ⚡ My site: https://zhiyu.netlify.app (not updated) 
 
 [![QGrain's github stats](https://github-readme-stats.vercel.app/api?username=qgrain&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgrain&hide=css,html,SWIG,Makefile,JavaScript,TeX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
