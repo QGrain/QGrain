@@ -3,8 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qgrain" alt="qgrain" /> </p>
 
 - 🔭 I’m currently a PhD student in cyber security, focusing on software and system security
-- 🌱 I’m currently learning and doing some stuff with LLVM, Fuzzing and CTF.
-- 📫 My email: zhiyuzhang1999@163.com
+- 🌱 I’m currently learning and doing some stuff with Fuzzing and LLM.
+- 📫 My email: zhiyuzhang999@gmail.com
 - 😄 Tech blog: https://qgrain.github.io
 - ⚡ Personal website (CV included): https://zhiyu.netlify.app
 
