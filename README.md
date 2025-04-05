@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently a PhD student in cyber security, focusing on software and system security
 - 🌱 I’m currently learning and doing some stuff with Fuzzing and LLM.
-- 📫 My email: zhiyuzhang999@gmail.com
+- 📫 My email: zhiyuzhang999@gmail.com / zhangzhiyu1999@iie.ac.cn
 - 😄 Tech blog: https://qgrain.github.io
-- ⚡ Personal website (CV included): https://zhiyu.netlify.app
+- ⚡ Personal website: https://zhiyu.netlify.app
 
 [![QGrain's github stats](https://github-readme-stats-zzy.vercel.app/api?username=qgrain&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-zzy.vercel.app/api/top-langs/?username=qgrain&hide=css,html,SWIG,Makefile,JavaScript,TeX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
